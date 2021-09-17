@@ -18,4 +18,4 @@
 
 <h2>5 - git pull </h2>
 
-<p> O git push é usado para pegar os arquivos de um servidor remoto e mandar para sua maquina.</p>
+<p> O git pull é usado para pegar os arquivos de um servidor remoto e mandar para sua maquina.</p>
